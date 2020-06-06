@@ -1,0 +1,14 @@
+.idea
+.venv
+.cache
+.env
+.pytest_cache
+.benchmarks
+.coverage
+*.py[cod]
+*.log
+.python-version
+.mypy_cache
+docker-compose-dev.yml
+.DS_Store
+venv
